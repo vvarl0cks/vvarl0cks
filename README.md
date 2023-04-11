@@ -49,3 +49,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center"> <a href="http://www.github.com/vvarl0cks"><img src="https://github-readme-stats.vercel.app/api?username=vvarl0cks&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="vvarl0cks's GitHub stats" /></a>
 
 <p align="center"> <a href="http://www.github.com/vvarl0cks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvarl0cks&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Currently listening
+
+<p align="center"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n2qdpa65pweua2nukyodloi5je&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
