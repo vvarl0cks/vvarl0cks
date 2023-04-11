@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Regional Government Cash Management<br>⛓️ Emurgo "Fundamental of Blockchain" Certified<br>⛓️ Blockchain Basic Certified (Coursera) University at Buffalo & State University of New York
+💼 cooking and baking </code>
 
 
 ## 🌐 Socials:
