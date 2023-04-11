@@ -2,7 +2,7 @@
 <img src="https://data.whicdn.com/images/298240351/original.gif" align="center" style="width: 100%" />
 </div> 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sigit Haryoyudanto
+<p align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sigit Haryoyudanto
 ==========================================================================================================================================
 
 * 🌍  I'm based in Depok, Indonesia
@@ -42,11 +42,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-### Socials
+### <p align="center">Socials
 
 <p align="center"> <a href="https://www.linkedin.com/in/sigit-haryoyudanto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vvarl0cks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/warl0cks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/vvarl0cks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
 
-### Badges
+### <p align="center">Badges
 
 <p align="center"> <a href="https://github.com/vvarl0cks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvarl0cks&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
