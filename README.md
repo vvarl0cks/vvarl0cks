@@ -44,8 +44,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <p align="center"> <a href="https://github.com/vvarl0cks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvarl0cks&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p align="center"> <a href="http://www.github.com/vvarl0cks"><img src="https://github-readme-stats.vercel.app/api?username=vvarl0cks&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="vvarl0cks's GitHub stats" /></a>
