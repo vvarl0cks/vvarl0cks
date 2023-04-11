@@ -3,10 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Depok, Indonesia
 * ✉️  You can contact me at [hello@sigit.co.uk](mailto:hello@sigit.co.uk)
-* 🚀  I'm currently working on [FitOff](https://fitoff.io)
-* 🧠  I'm learning Web3 Ecosystem
+* 🚀  I'm currently working on Project [FitOff](https://fitoff.io)
+* 👨‍💻  All of my activity are available at [here](https://warlocks.netlify.app)
+* 🧠  I’m currently learning Web3 and The Ecosystems
 * 🤝  I'm open to collaborating on Interesting Projects and Ideas
 * ⚡  Let's Buidl and Collaborate
+* 😆  Fun fact Chuck Norris mines crypto currency...by hand.
 
 ### Skills
 
