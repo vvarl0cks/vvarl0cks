@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Depok, Indonesia
 * ✉️  You can contact me at [hello@sigit.co.uk](mailto:hello@sigit.co.uk)
-* 🚀  I'm currently working on [FitOff](http://fitoff.io)
+* 🚀  I'm currently working on [FitOff](https://fitoff.io)
 * 🧠  I'm learning Web3 Ecosystem
 * 🤝  I'm open to collaborating on Interesting Projects and Ideas
 * ⚡  Let's Buidl and Collaborate
