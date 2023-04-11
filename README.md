@@ -1,4 +1,4 @@
-<p align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sigit Haryoyudanto
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sigit Haryoyudanto
 ==========================================================================================================================================
 
 * 🌍  I'm based in Depok, Indonesia
@@ -9,7 +9,7 @@
 * 🤝  I'm open to collaborating on Interesting Projects and Ideas
 * ⚡  Let's Buidl and Collaborate
 
-<p align="center">### Skills
+### Skills
 
 
 <p align="center">
@@ -38,11 +38,11 @@
 </p>
 
 
-<p align="center">### Socials
+### Socials
 
 <p align="center"> <a href="https://www.codepen.io/warl0cks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/vvarl0cks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sigit-haryoyudanto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vvarl0cks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<p align="center">### Badges
+### Badges
 
 <b>My GitHub Stats</b>
 
