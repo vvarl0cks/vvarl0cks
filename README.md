@@ -2,10 +2,8 @@
 <img src="https://data.whicdn.com/images/298240351/original.gif" align="center" style="width: 100%" />
 </div> 
 
-<p align="center">
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sigit Haryoyudanto
+<center> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sigit Haryoyudanto </center>
 ==========================================================================================================================================
-</p> 
 
 * 🌍  I'm based in Depok, Indonesia
 * 🖥️  All of my activity are available at [here](http://warlocks.netlify.app)
