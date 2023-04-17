@@ -53,3 +53,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center"> <a href="http://www.github.com/vvarl0cks"><img src="https://github-readme-stats.vercel.app/api?username=vvarl0cks&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="vvarl0cks's GitHub stats" /></a>
 
 <p align="center"> <a href="http://www.github.com/vvarl0cks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvarl0cks&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  
+  <a href="https://github.com/vvarl0cks"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/vvarl0cks"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
