@@ -56,3 +56,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### <p align="left">Spotify
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n2qdpa65pweua2nukyodloi5je&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31n2qdpa65pweua2nukyodloi5je&redirect=true)
+
+### <p align="left">WEB3WEEKEND (W3W) 🌎 https://web3weekend.asia
+
+<img src="https://i.postimg.cc/wjSnHP8P/Whats-App-Image-2023-04-27-at-12-34-46.jpg"/>
