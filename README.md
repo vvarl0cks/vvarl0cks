@@ -42,8 +42,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <a href="https://github.com/vvarl0cks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvarl0cks&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p align="left"> <a href="http://www.github.com/vvarl0cks"><img src="https://github-readme-stats.vercel.app/api?username=vvarl0cks&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="vvarl0cks's GitHub stats" /></a>
-
 <p align="left"> <a href="http://www.github.com/vvarl0cks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvarl0cks&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
 ### <p align="left">Spotify
@@ -55,4 +53,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > **We got number 3 from [Top 30 Curated Ideas of Web3Weekend!](https://twitter.com/Web3Weekend/status/1664935449805180930) 🎉 for [Web3 Crowdfunding dApps](https://github.com/vvarl0cks/Web3-Crowdfunding)!   
 > LFG !!** 🚀
 
-<a href="https://twitter.com/Web3Weekend/status/1664935449805180930"><img src="https://iili.io/H4KE9vn.png" alt="H4KE9vn.png" border="0" /></a>
+<a href="https://twitter.com/Web3Weekend/status/1664935449805180930"><img src="https://iili.io/H4KE9vn.png" alt="H4KE9vn.png" border="0" /></a>   
+  
