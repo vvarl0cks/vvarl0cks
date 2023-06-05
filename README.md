@@ -50,8 +50,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### <p align="left">Web3 Weekend Asia 2023 (W3W) 🌎 https://web3weekend.asia
   
-> **We got number 3 from [Top 30 Curated Ideas of Web3Weekend!](https://twitter.com/Web3Weekend/status/1664935449805180930) 🎉 for [Web3 Crowdfunding dApps](https://github.com/vvarl0cks/Web3-Crowdfunding)!   
-> LFG !!** 🚀
+> **[Top 30 Curated Ideas of Web3Weekend!](https://twitter.com/Web3Weekend/status/1664935449805180930) 🎉 [Web3 Crowdfunding dApps](https://github.com/vvarl0cks/Web3-Crowdfunding)!**
 
-<a href="https://twitter.com/Web3Weekend/status/1664935449805180930"><img src="https://iili.io/H4KE9vn.png" alt="H4KE9vn.png" border="0" /></a>   
+<a href="https://twitter.com/Web3Weekend/status/1664935449805180930"><img src="https://pbs.twimg.com/media/FxsJ9FtacAI8wxU?format=jpg&name=large" border="0" /></a>   
   
