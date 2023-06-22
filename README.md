@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  All of my activity are available at [here](http://warlocks.netlify.app)
 * ✉️  You can contact me at [hello@sigit.co.uk](mailto:hello@sigit.co.uk)
 * 🚀  I'm currently working on Project [FitOff](https://fitoff.io)
-* 🧠  I’m currently learning Web3 and The Ecosystems ⛓ [🏰BuidlGuidl](https://buidlguidl.com/builders/0xEFbc6603EeF16CBEd36b3ea2246f5204583751f7) ⛓ [Learn Web3 DAO](https://learnweb3.io/profiles/warl0cks)
+* 🧠  I’m currently learning Web3 and The Ecosystems ⛓ [🏰BuidlGuidl](https://buidlguidl.com/builders/0xEFbc6603EeF16CBEd36b3ea2246f5204583751f7) ⛓ [Learn Web3 DAO](https://learnweb3.io/u/warl0cks)
 * 🤝  I'm open to collaborating on Interesting Projects and Ideas
 * ⚡  Let's Buidl and Collaborate
 
