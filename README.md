@@ -47,10 +47,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### <p align="left">Spotify
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n2qdpa65pweua2nukyodloi5je&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31n2qdpa65pweua2nukyodloi5je&redirect=true)
-
-### <p align="left">Web3 Weekend Asia 2023 (W3W) 🌎 https://web3weekend.asia
-  
-> **[Top 30 Curated Ideas of Web3Weekend!](https://twitter.com/Web3Weekend/status/1664935449805180930) 🎉 [Web3 Crowdfunding dApps](https://github.com/vvarl0cks/Web3-Crowdfunding)!**
-
-<a href="https://twitter.com/Web3Weekend/status/1664935449805180930"><img src="https://pbs.twimg.com/media/FxsJ9FtacAI8wxU?format=jpg&name=large" border="0" /></a>   
-  
