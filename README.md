@@ -3,7 +3,7 @@
 </div> 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sigit Haryoyudanto
+Hi! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefba414.GIF" width="50" height="50" alt="ETH" /> My name is Sigit Haryoyudanto
 ==========================================================================================================================================
 
 * 🌍  I'm based in Depok, Indonesia
