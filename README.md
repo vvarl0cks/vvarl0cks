@@ -50,4 +50,4 @@ Hi! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefb
   
 ### <p align="left">ETH SEA (Ethereum South East Asia) 🏰 https://ethsea.com  
 
-<p align="left"> <a href="https://x.com/ethereum_sea/status/1808092322108002589" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/GReiN5Gb0AA8tIs?format=jpg&name=medium" width="1024" height="1280" /></a>
+<p align="left"> <a href="https://x.com/ethereum_sea/status/1808092322108002589" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vvarl0cks/vvarl0cks/main/ETHSEA-Banner-776%20x%20473.jpg" width="100%" height="473" /></a>
