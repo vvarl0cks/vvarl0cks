@@ -3,7 +3,7 @@
 </div> 
 
 
-Hi! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefba414.GIF" width="50" height="50" alt="ETH" /> My name is Sigit Haryoyudanto
+Hi! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefba414.GIF" width="50" height="50" alt="ETH" /> My name is Sigit H. Yudanto
 ==========================================================================================================================================
 
 * 🌍  I'm based in Depok, Indonesia
@@ -50,4 +50,4 @@ Hi! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefb
   
 ### <p align="left">ETH SEA (Ethereum South East Asia)  
 
-<p align="left"> <a href="https://x.com/ethereum_sea/status/1808092322108002589" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/GReiN5Gb0AA8tIs?format=jpg" width="0" height="0" /></a>
+<p align="left"> <a href="https://x.com/ethereum_sea/status/1808092322108002589" target="_blank" rel="noreferrer"><img src="https://iili.io/dxqahXt.md.jpg" width="0" height="0" /></a>
