@@ -48,6 +48,6 @@ Hi! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefb
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n2qdpa65pweua2nukyodloi5je&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n2qdpa65pweua2nukyodloi5je&redirect=true)
   
-### <p align="left">ETH SEA (Ethereum South East Asia)  
+### <p align="left">ETH SEA (Ethereum South East Asia) 🏰 https://ethsea.com  
 
-<p align="left"> <a href="https://x.com/ethereum_sea/status/1808092322108002589" target="_blank" rel="noreferrer"><img src="https://iili.io/dxqahXt.md.jpg" width="0" height="0" /></a>
+<p align="left"> <a href="https://x.com/ethereum_sea/status/1808092322108002589" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/GReiN5Gb0AA8tIs?format=jpg&name=medium" width="1024" height="1280" /></a>
