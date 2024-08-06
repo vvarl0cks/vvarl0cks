@@ -40,8 +40,6 @@ Hi! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefb
 
 ### <p align="left">Stats
 
-<p align="left"> <a href="https://github.com/vvarl0cks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvarl0cks&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <p align="left"> <a href="http://www.github.com/vvarl0cks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvarl0cks&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
 ### <p align="left">Spotify
