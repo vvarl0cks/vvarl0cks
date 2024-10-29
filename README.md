@@ -9,7 +9,6 @@ Hi! <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefb
 * 🌍  I'm based in Depok, Indonesia
 * 🖥️  [About me](https://warl0cks.vercel.app/)
 * ✉️  You can contact me at [hello@sigit.co.uk](mailto:hello@sigit.co.uk)
-* 🚀  I'm currently working on Project [FitOff](https://fitoff.io)
 * 🧠  I’m currently learning Web3 and The Ecosystems ⛓ [🏰BuidlGuidl](https://buidlguidl.com/builders/0xEFbc6603EeF16CBEd36b3ea2246f5204583751f7) ⛓ [Learn Web3 DAO](https://learnweb3.io/u/Warl0cks)
 * 🤝  I'm open to collaborating on Interesting Projects and Ideas
 * ⚡  Let's Buidl and Collaborate
