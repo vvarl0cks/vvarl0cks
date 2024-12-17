@@ -34,9 +34,6 @@
 
 <p align="left"> <a href="https://buidlguidl.com/builders/0xEFbc6603EeF16CBEd36b3ea2246f5204583751f7" target="_blank" rel="noreferrer"><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f3f0.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sigit-haryoyudanto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vvarl0cks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.github.com/vvarl0cks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
 
-### <p align="left">Stats
-
-<p align="left"> <a href="http://www.github.com/vvarl0cks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvarl0cks&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
 ### <p align="left">Spotify
   
