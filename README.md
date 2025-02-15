@@ -10,7 +10,7 @@
 * 🤝  I'm open to collaborating on Interesting Projects and Ideas
 * ⚡  Let's Buidl and Collaborate
 
-### <p align="left">Tools
+### <p align="left">Tech Stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -27,6 +27,7 @@
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://thirdweb.com" target="_blank" rel="noreferrer"><img src="https://file.notion.so/f/f/f6d1ff84-8c0e-4bcb-8dd6-edab3b3c175b/74a289e0-a5e1-4127-b9f5-b2750cb26254/thirdweb-circle-dark.svg?table=block&id=8ad58f97-13d5-4463-b409-a862063571d7&spaceId=f6d1ff84-8c0e-4bcb-8dd6-edab3b3c175b&expirationTimestamp=1739649600000&signature=X6WnIAMOClEBxcpOxt1d4IJcsP51SE7l_sU1UwSW8S8&downloadName=thirdweb-circle-dark.svg" width="36" height="36" alt="Thirdweb" /></a>
 </p>
 
 
