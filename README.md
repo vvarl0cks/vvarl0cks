@@ -27,8 +27,6 @@
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://thirdweb.com" target="_blank" rel="noreferrer"><img src="https://file.notion.so/f/f/f6d1ff84-8c0e-4bcb-8dd6-edab3b3c175b/74a289e0-a5e1-4127-b9f5-b2750cb26254/thirdweb-circle-dark.svg?table=block&id=8ad58f97-13d5-4463-b409-a862063571d7&spaceId=f6d1ff84-8c0e-4bcb-8dd6-edab3b3c175b&expirationTimestamp=1739649600000&signature=X6WnIAMOClEBxcpOxt1d4IJcsP51SE7l_sU1UwSW8S8&downloadName=thirdweb-circle-dark.svg" width="36" height="36" alt="Thirdweb" /></a>
-<a href="https://gitpod.io" target="_blank" rel="noreferrer"><img src="https://www.gitpod.io/svg/media-kit/logo-mark.svg" width="36" height="36" alt="Thirdweb" /></a>
 </p>
 
 
@@ -41,6 +39,4 @@
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n2qdpa65pweua2nukyodloi5je&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n2qdpa65pweua2nukyodloi5je&redirect=true)
   
-### <p align="left">ETH SEA (Ethereum South East Asia) 🏰 https://ethsea.com  
 
-<p align="left"> <a href="https://x.com/ethereum_sea/status/1808092322108002589" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vvarl0cks/vvarl0cks/main/ETHSEA-Banner-776%20x%20473.jpg" width="100%" height="473" /></a>
